@@ -11,11 +11,11 @@
 - [FiscalNote](fiscal_note/deck.pdf)
 
 ## List of early version pitchdecks which raised funds.
-- [Almanac](almanac/deck.pdf)
-- [Apteo](apteo/deck.pdf)
-- [Buffer](buffer/deck.pdf): half a million dollars
-- [Mattermark](mattermark/deck.pdf)
-- [Votus](votus/deck.pdf)
+- [Almanac](almanac/deck.pdf): [Total $45M](https://www.crunchbase.com/organization/almanac-ce13)
+- [Apteo](apteo/deck.pdf): [Total $1.1M](https://www.crunchbase.com/organization/apteo)
+- [Buffer](buffer/deck.pdf): [half a million dollars](https://www.crunchbase.com/organization/buffer)
+- [Mattermark](mattermark/deck.pdf): [Total $17.2M](https://www.crunchbase.com/organization/mattermark)
+- [Votus](votus/deck.pdf): [Seed funding undisclosed](https://www.crunchbase.com/organization/votus)
 
 
 ## how to use this repo
