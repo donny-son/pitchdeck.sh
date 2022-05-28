@@ -1,15 +1,20 @@
 # Pitchdeck.sh
 
-## List of early versions pitchdecks of industry giants.
+## List of early version pitchdecks of industry giants.
 
 - [Airbnb](airbnb/deck.pdf)
-- [Almanac](almanac/deck.pdf)
-- [Apteo](apteo/deck.pdf)
 - [Dropbox](dropbox/deck.pdf)
 - [Snap](snap/deck.pdf)
 - [Uber](uber/deck.pdf)
 - [Facebook](facebook/deck.pdf)
 - [FiscalNote](fiscal_note/deck.pdf)
+
+## List of early version pitchdecks which raised funds.
+- [Almanac](almanac/deck.pdf)
+- [Apteo](apteo/deck.pdf)
+- [Buffer](buffer/down.sh): half a million dollars
+- [Mattermark](mattermark/deck.pdf)
+- [Votus](votus/deck.pdf)
 
 
 ## how to use this repo
@@ -24,4 +29,5 @@ Scripts were run on MacOS.
 - `brew install imagemagick`.
 
 ## Thanks to
-[Failory.com](https://www.failory.com/pitch-deck) for providing list of pitchdecks.
+- [Failory.com](https://www.failory.com/pitch-deck)
+- [Visme.co](https://visme.co/blog/best-pitch-decks/)
