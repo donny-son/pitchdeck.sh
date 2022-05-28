@@ -3,6 +3,10 @@
 ## List of early versions pitchdecks of industry giants.
 
 - [Airbnb](airbnb/deck.pdf)
+- [Almanac](almanac/deck.pdf)
+- [Apteo](apteo/deck.pdf)
+- [Dropbox](dropbox/deck.pdf)
+- [Snap](snap/deck.pdf)
 - [Uber](uber/deck.pdf)
 - [Facebook](facebook/deck.pdf)
 - [FiscalNote](fiscal_note/deck.pdf)
