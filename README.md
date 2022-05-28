@@ -12,7 +12,7 @@
 ## List of early version pitchdecks which raised funds.
 - [Almanac](almanac/deck.pdf)
 - [Apteo](apteo/deck.pdf)
-- [Buffer](buffer/down.sh): half a million dollars
+- [Buffer](buffer/deck.pdf): half a million dollars
 - [Mattermark](mattermark/deck.pdf)
 - [Votus](votus/deck.pdf)
 
