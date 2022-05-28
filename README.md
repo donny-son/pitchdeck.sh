@@ -3,7 +3,9 @@
 ## List of early versions pitchdecks of industry giants.
 
 - [Airbnb](airbnb/deck.pdf)
+- [Uber](uber/deck.pdf)
 - [FiscalNote](fiscal_note/deck.pdf)
+
 
 ## how to use this repo
 1. Create a subdirectory with the company name.
