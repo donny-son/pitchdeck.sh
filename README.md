@@ -3,6 +3,7 @@
 ## List of early version pitchdecks of industry giants.
 
 - [Airbnb](airbnb/deck.pdf)
+- [Crunchbase](crunchbase/deck.pdf)
 - [Dropbox](dropbox/deck.pdf)
 - [Snap](snap/deck.pdf)
 - [Uber](uber/deck.pdf)
